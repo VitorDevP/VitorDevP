@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VitorDevP
+- 👋 Hi, I’m Vitor, also known as @VitorDevP
 - 👀 I’m interested in everything that could be coded
 - 🌱 I’m currently learning kotlin and js
 - 📫 How to reach me send a request on github
