@@ -12,6 +12,7 @@
 - 👀 I’m interested in everything that could be coded
 - 🌱 I’m currently learning kotlin and js
 - 📫 How to reach me - send a request on github
+- :point_down: You can find me here
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-dev/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vrodrigueskode.medium.com/)
