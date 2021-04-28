@@ -15,7 +15,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-dev/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vrodrigueskode.medium.com/)
-
+[![discord](https://img.shields.io/discord/836777825440497695)](https://vrodrigueskode.medium.com/)
 
 <!---
 VitorDevP/VitorDevP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
