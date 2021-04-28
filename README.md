@@ -24,8 +24,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-dev/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vrodrigueskode.medium.com/)
-[![discord](https://img.shields.io/discord/836777825440497695?style=for-the-badge&logo=discord)](https://vrodrigueskode.medium.com/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://vrodrigueskode.medium.com/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/836777825440497695)
 [![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
 
 
@@ -33,4 +32,6 @@
 VitorDevP/VitorDevP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 📫 How to reach me - send a request on github
+[![discord](https://img.shields.io/discord/836777825440497695?style=for-the-badge&logo=discord)](https://discord.com/channels/836777825440497695)
+- 
 --->
