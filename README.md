@@ -17,7 +17,7 @@
 
 - 👋 Hi, I’m Vitor, also known as @VitorDevP
 - 👀 I’m interested in everything that could be coded
-- 🌱 I’m currently learning kotlin and js
+- 🌱 I’m currently learning kotlin
 - :books: [My Recommended books to read](https://github.com/VitorDevP/Recommended-books)
 - :point_down: You can find me here
 
