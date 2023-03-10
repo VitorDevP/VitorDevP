@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m Vitor, also known as @VitorDevP
 - 👀 I’m interested in everything that could be coded
-- 🌱 AWS certified
+- ☁️ AWS certified
 - :books: [My Recommended books to read](https://github.com/VitorDevP/Recommended-books)
 - :point_down: You can find me here
 
